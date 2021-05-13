@@ -1,4 +1,4 @@
-# Configuring the Flatiron Student Portal
+# Configuring for Canvas
 
 ## Introduction 
 
@@ -48,7 +48,7 @@ You should notice a change in the button's behavior — rather than bringing you
 3) In your terminal, navigate to where you'd like to put this repository locally, clone it down and navigate into the folder.
 
 ```
-git clone git@github.com:/macos-env-flatiron-student-portal.git
+git clone git@github.com:/<GITHUB_USER>/macos-env-flatiron-student-portal.git
 cd macos-env-flatiron-student-portal
 ```
 
