@@ -1,4 +1,4 @@
-# Configuring the `learn-lab` Gem
+# Configuring the learn-lab Gem
 
 ## Introduction 
 
