@@ -1,4 +1,4 @@
-# Configuring for Canvas
+# Configuring the `learn-lab` Gem
 
 ## Introduction 
 
